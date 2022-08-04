@@ -17,7 +17,7 @@ class ProfilePage extends StatelessWidget {
         onTap: (){
           debugPrint('Item ${(index+1)} selected');
 
-        },
+        } ,
       );
     },
     );
